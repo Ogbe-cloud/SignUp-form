@@ -1,0 +1,40 @@
+ body{
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.9)),url(workSpace.jpg) ;
+    background-attachment: fixed;
+    background-size: cover;
+    
+
+}
+
+.main{
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 4rem auto auto auto;
+    text-align: center;
+    
+}
+
+button{
+    border-radius: 5px;
+    box-shadow: 10px solid beige;
+    border: 10px solid black;
+}
+
+button:hover{
+    background-color: #000000;
+    color: #0000ff;
+    cursor: pointer;
+}
+
+   
+/* .text-primary{
+    color: aquamarine;
+}
+
+
+
+a:hover{
+    color: aqua;
+} */

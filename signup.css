@@ -1,0 +1,53 @@
+body{
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+    /* background-color: rgb(65, 61, 61); */
+
+}
+form{
+    margin: 0px auto;
+    /* background-color: rgba(136, 119, 119,0.9); */
+    text-align: center;
+    font-size: large;
+    border: 3px solid rgb(231, 218, 218);
+    box-shadow:  black;
+    background-color: aliceblue;
+    border-radius: 5px;
+    width: 80%;
+    
+}
+.form{
+    margin: 4rem 0px 4rem 0px;
+    
+}
+
+input{
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border: 3px solid rgb(202, 174, 174);
+    border-radius: 8px;
+    
+}
+.input-width{
+    width: 40%;
+}
+
+.input-width:hover{
+    border: 4px solid black;
+
+}
+.register{
+    display: flex;
+    margin-left: 3rem;
+
+}
+
+.register:hover{
+ background-color: rgb(27, 27, 63);
+ color: aliceblue;
+
+}
+
+
+   
